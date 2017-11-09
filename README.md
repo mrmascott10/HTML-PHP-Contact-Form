@@ -19,4 +19,4 @@ After saving the PHP document you can then change the email at the top of the pa
 
 ## Authors
 
-* **Michael Scott** - *Initial work* - [Tresna](http://www.tresna.co.uk)
+* **Michael Scott** - [Tresna](http://www.tresna.co.uk)
